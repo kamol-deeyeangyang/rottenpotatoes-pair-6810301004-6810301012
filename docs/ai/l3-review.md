@@ -40,5 +40,7 @@ Reviewers: M.Kamol Deeyeangyang and Naruechit Boonyoung. Checked against docs/in
 | 102: "4. There is no web page yet, so \"show\" and \"message\" can only be checked through the domain classes this week." | ตรงกับ Affected users and systems ใน intent ที่ระบุว่ายังไม่มีหน้าเว็บและตรวจสอบผ่าน domain classes เท่านั้น | เก็บ |
 
 Kept: การคงข้อจำกัดหลักเรื่องเรตติ้ง 5 ค่า (`REQ-1`) และการไม่เก็บข้อมูลส่วนตัวหรือบังคับเข้าสู่ระบบ (`REQ-12`) รวมถึงการระบุข้อกังวลที่ถูกต้องว่าระดับเรตติ้งไม่ใช่สิ่งเดียวกับความเหมาะสมของเนื้อหา หนังใน L2 มีเรตติ้งครบทุกเรื่อง และสัปดาห์นี้ตรวจสอบพฤติกรรมผ่าน domain classes เท่านั้น เพราะทั้งหมดตรงกับ `movie-filter.md` และสามารถตรวจสอบได้จริง
+
 Counts: แก้ 12 ตัด 9 เก็บ 14
-Customer proxy: <ใครยืนยันบัตรทั้งสามใบ เมื่อใด>
+
+Customer proxy: ผศ.ดร.ดำรงค์ฤทธิ์ เศรษฐ์ศิริโชค confirmed all three cards on 27/11/2026.
